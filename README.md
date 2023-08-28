@@ -1,0 +1,1 @@
+Authentication backend made using ExpressJS, which uses JWT(JsonWebToken) for authorisation.
