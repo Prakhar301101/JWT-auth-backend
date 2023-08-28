@@ -21,7 +21,7 @@ const secret = "f3qwrrhj23rug23rbdf2o83dn23dl3n2lduh";
 
 //db
 mongoose.connect(
-  "mongodb+srv://prakhar30:9quBcm6KyuEiQX6Y@cluster0.h3xyoqk.mongodb.net/?retryWrites=true&w=majority"
+  "route"
 );
 
 const generateJWT = (username, id) => {
